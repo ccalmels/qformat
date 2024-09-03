@@ -1,4 +1,5 @@
-Stupid C code to convert from/to float to qformat. For the moment only 32bits words are supported. It means we can do Qm.n with m+n = 32.
+Stupid C code to convert from/to float to qformat. For the moment only
+32bits words are supported. It means we can do Qm.n with m+n = 32.
 
 * Build
 
